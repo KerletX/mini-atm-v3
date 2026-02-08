@@ -5,7 +5,7 @@ import sys
 #selamlama
 print("//Mini ATM V3'e hoşgeldiniz!//")
 
-sifre = "Pp9112276**+"
+sifre = "TTYY9112211++"
 
 hak = 3
 
@@ -180,4 +180,5 @@ Lütfen bir seçim yapınız: """)
 
     else:
         print("1 veya 2 seçmelisiniz...")
+
         continue
